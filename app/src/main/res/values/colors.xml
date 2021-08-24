@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorMain">#C547DD</color>
+    <color name="colorMainDark">#B023CB</color>
+    <color name="colorChatBox1">#FAE0FF</color>
+    <color name="colorChatBox2">#F3F3F3</color>
+</resources>
